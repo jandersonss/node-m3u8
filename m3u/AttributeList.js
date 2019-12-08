@@ -18,6 +18,7 @@ var dataTypes = AttributeList.dataTypes = {
     'forced'                : 'boolean',
     'frame-rate'            : 'decimal-floating-point',
     'group-id'              : 'quoted-string',
+    'group-title'              : 'quoted-string',
     'instream-id'           : 'quoted-string',
     'language'              : 'quoted-string',
     'name'                  : 'quoted-string',
